@@ -1,8 +1,7 @@
 // wrangler.jsonc
-"name": "rh3td",
 
 {
-"name": "worker-name",
+"name": "rh3td",
 "compatibility_date": "2025-12-07",
 "main": "src/index.ts"
 }
