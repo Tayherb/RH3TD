@@ -1,1 +1,1 @@
-BAsic site deployment on Cloudflare.
+Basic site deployment on Cloudflare.
