@@ -1,16 +1,9 @@
 // wrangler.jsonc
 {
 "name": "rh3td",
-}
-
-{
   "observability": {
     "enabled": false
-  }
-}
-
-{
-"name": "worker-name",
+  },
 "compatibility_date": "2025-12-07",
 "main": "src/index.ts"
 }
